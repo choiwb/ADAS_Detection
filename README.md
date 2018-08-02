@@ -11,4 +11,4 @@ EX) python main.py video car.mp4 car_output.mp4
 
 4. ADAS_eval/make_pytube.py : 원하는 동영상을 YOUTUBE 에서 찾아서 주소 입력 후, .mp4 형식으로 저장 가능.
 
-5.
+5. ADAS_eval/ssd_inception_v2_coco_2017_11_17/frozen_inference_graph.pb  -> download
